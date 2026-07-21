@@ -96,6 +96,9 @@ Las plantillas se encuentran en `templates/` y sirven como base para generar cad
 │   ├── USAGE.md             ← Guía de uso detallada
 │   ├── GARMIN-CONNECT.md    ← Integración con Garmin Connect API
 │   └── PLANNING.md          ← Guía de planificación y seguimiento
+├── scripts/
+│   ├── fetch_activity.py    ← Consultar una actividad por ID
+│   └── fetch_children.py   ← Consultar sub-actividades de un multisport
 ├── templates/
 │   ├── fuerza.md
 │   ├── carrera-larga.md

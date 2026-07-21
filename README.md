@@ -7,10 +7,14 @@ Skill para registrar, consultar, planificar y hacer seguimiento de entrenamiento
 ```
 hyrox/
 ├── README.md                    # Este fichero
+├── SKILL.md                     # Definición de la skill (capacidades, datos, instrucciones)
 ├── docs/
 │   ├── USAGE.md                 # Guía de uso de la skill
-│   ├── GARMIN-CONNECT.md        # Integración con Garmin Connect API
+│   ├── GARMIN-CONNECT.md        # Integración con Garmin Connect
 │   └── PLANNING.md             # Guía de planificación y seguimiento
+├── scripts/
+│   ├── fetch_activity.py       # Consultar actividad por ID desde Garmin Connect
+│   └── fetch_children.py      # Consultar sub-actividades de un multisport
 ├── templates/
 │   ├── fuerza.md               # Plantilla: entrenamiento de fuerza
 │   ├── carrera-larga.md        # Plantilla: carrera larga distancia

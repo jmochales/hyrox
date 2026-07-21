@@ -15,8 +15,39 @@ Esta skill importa datos de entrenamientos desde Garmin Connect usando la librer
 ## Instalación
 
 ```bash
-pip install garminconnect
+pip install garminconnect python-dotenv
 ```
+
+## Script de consulta
+
+El script `scripts/fetch_activity.py` automatiza la consulta de actividades:
+
+```bash
+python scripts/fetch_activity.py <activityId>
+```
+
+El script:
+1. Lee credenciales del `.env`
+2. Desactiva verificación SSL (necesario en redes con proxy corporativo)
+3. Se autentica en Garmin Connect
+4. Obtiene datos de la actividad y sus series (exercise sets)
+5. Imprime el JSON completo
+
+### Consultar sub-actividades (multisport)
+
+Para actividades de tipo multisport (híbrido), los datos de cada tramo están en sub-actividades. Usar `scripts/fetch_children.py`:
+
+```bash
+python scripts/fetch_children.py
+```
+
+Este script consulta las sub-actividades hijas de una actividad multisport y devuelve un resumen de cada una (tipo, duración, distancia, FC media).
+
+> **Nota**: Los IDs de las sub-actividades se encuentran en el campo `childIds` de la actividad padre.
+
+> **Nota sobre SSL**: Si estás en una red corporativa con proxy que intercepta HTTPS, ambos scripts incluyen los parches necesarios para `requests` y `curl_cffi`.
+
+> **Nota sobre rate limit**: Garmin aplica rate limit (429) si se hacen demasiadas peticiones seguidas. Si recibes este error, espera 2-3 minutos y reintenta.
 
 ## Autenticación
 

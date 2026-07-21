@@ -15,24 +15,24 @@
 
 ## Series
 
-| # | Ejercicio | Tiempo | Descanso | Repeticiones | Peso (kg) |
-|---|-----------|--------|----------|--------------|-----------|
-| 1 | Carrera 1 km | | | 1 | - |
-| 2 | SkiErg | | | | - |
-| 3 | Carrera 1 km | | | 1 | - |
-| 4 | Sled Push | | | | - |
-| 5 | Carrera 1 km | | | 1 | - |
-| 6 | Sled Pull | | | | - |
-| 7 | Carrera 1 km | | | 1 | - |
-| 8 | Burpee Broad Jump | | | | - |
-| 9 | Carrera 1 km | | | 1 | - |
-| 10 | Rowing | | | | - |
-| 11 | Carrera 1 km | | | 1 | - |
-| 12 | Farmers Carry | | | | - |
-| 13 | Carrera 1 km | | | 1 | - |
-| 14 | Lunges | | | | - |
-| 15 | Carrera 1 km | | | 1 | - |
-| 16 | Wall Balls | | | | - |
+| # | Ejercicio | Tiempo | Descanso | Repeticiones | Peso (kg) | FC media | FC máx | Ritmo medio | Ritmo máx |
+|---|-----------|--------|----------|--------------|-----------|----------|--------|-------------|-----------|
+| 1 | Carrera 1 km | | | 1 | - | -- bpm | -- bpm | --:--/km | --:--/km |
+| 2 | SkiErg | | | | - | -- bpm | -- bpm | - | - |
+| 3 | Carrera 1 km | | | 1 | - | -- bpm | -- bpm | --:--/km | --:--/km |
+| 4 | Sled Push | | | | - | -- bpm | -- bpm | - | - |
+| 5 | Carrera 1 km | | | 1 | - | -- bpm | -- bpm | --:--/km | --:--/km |
+| 6 | Sled Pull | | | | - | -- bpm | -- bpm | - | - |
+| 7 | Carrera 1 km | | | 1 | - | -- bpm | -- bpm | --:--/km | --:--/km |
+| 8 | Burpee Broad Jump | | | | - | -- bpm | -- bpm | - | - |
+| 9 | Carrera 1 km | | | 1 | - | -- bpm | -- bpm | --:--/km | --:--/km |
+| 10 | Rowing | | | | - | -- bpm | -- bpm | - | - |
+| 11 | Carrera 1 km | | | 1 | - | -- bpm | -- bpm | --:--/km | --:--/km |
+| 12 | Farmers Carry | | | | - | -- bpm | -- bpm | - | - |
+| 13 | Carrera 1 km | | | 1 | - | -- bpm | -- bpm | --:--/km | --:--/km |
+| 14 | Lunges | | | | - | -- bpm | -- bpm | - | - |
+| 15 | Carrera 1 km | | | 1 | - | -- bpm | -- bpm | --:--/km | --:--/km |
+| 16 | Wall Balls | | | | - | -- bpm | -- bpm | - | - |
 
 ## Datos de carrera (acumulado)
 
