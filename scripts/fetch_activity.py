@@ -54,3 +54,11 @@ try:
     print(json.dumps(exercise_sets, indent=2, default=str))
 except Exception as e:
     print(f"\nNo se pudieron obtener exercise sets: {e}")
+
+# Intentar obtener splits/laps
+try:
+    splits = client.get_activity_splits(activity_id)
+    print("\n=== SPLITS ===")
+    print(json.dumps(splits, indent=2, default=str))
+except Exception as e:
+    print(f"\nNo se pudieron obtener splits: {e}")
