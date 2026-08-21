@@ -10,6 +10,7 @@ Entrenamientos organizados por año y mes.
 
 | Fecha | Tipo | Fichero |
 |-------|------|---------|
+| 2026-08-21 | Híbrido | [2026-08-21-hibrido.md](2026/08/2026-08-21-hibrido.md) |
 | 2026-08-19 | Híbrido | [2026-08-19-hibrido.md](2026/08/2026-08-19-hibrido.md) |
 | 2026-08-19 | Fuerza | [2026-08-19-fuerza.md](2026/08/2026-08-19-fuerza.md) |
 | 2026-08-10 | Híbrido | [2026-08-10-hibrido.md](2026/08/2026-08-10-hibrido.md) |
@@ -43,10 +44,10 @@ Entrenamientos organizados por año y mes.
 
 | Métrica | Valor |
 |---------|-------|
-| **Total entrenamientos** | 23 |
+| **Total entrenamientos** | 24 |
 | **Entrenamientos de fuerza** | 7 |
 | **Carreras larga distancia** | 5 |
 | **Carreras intervalos** | 0 |
-| **Entrenamientos híbridos** | 9 |
+| **Entrenamientos híbridos** | 10 |
 | **Ciclismo sala** | 2 |
 | **Movilidad** | 1 |
