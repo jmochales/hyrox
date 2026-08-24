@@ -10,6 +10,8 @@ Entrenamientos organizados por año y mes.
 
 | Fecha | Tipo | Fichero |
 |-------|------|---------|
+| 2026-08-24 | Híbrido | [2026-08-24-hibrido.md](2026/08/2026-08-24-hibrido.md) |
+| 2026-08-24 | Fuerza | [2026-08-24-fuerza.md](2026/08/2026-08-24-fuerza.md) |
 | 2026-08-21 | Híbrido | [2026-08-21-hibrido.md](2026/08/2026-08-21-hibrido.md) |
 | 2026-08-19 | Híbrido | [2026-08-19-hibrido.md](2026/08/2026-08-19-hibrido.md) |
 | 2026-08-19 | Fuerza | [2026-08-19-fuerza.md](2026/08/2026-08-19-fuerza.md) |
@@ -44,10 +46,17 @@ Entrenamientos organizados por año y mes.
 
 | Métrica | Valor |
 |---------|-------|
-| **Total entrenamientos** | 24 |
-| **Entrenamientos de fuerza** | 7 |
+| **Total entrenamientos** | 26 |
+| **Entrenamientos de fuerza** | 8 |
 | **Carreras larga distancia** | 5 |
 | **Carreras intervalos** | 0 |
-| **Entrenamientos híbridos** | 10 |
+| **Entrenamientos híbridos** | 11 |
 | **Ciclismo sala** | 2 |
 | **Movilidad** | 1 |
+
+## Tests
+
+| Fecha | Test | Resultado | Fichero |
+|-------|------|-----------|---------|
+| 2026-08-24 | 4' MAX Burpee Broad Jump | 80 m | [2026-08-24-hibrido.md](2026/08/2026-08-24-hibrido.md) |
+| 2026-08-24 | 2' MAX Burpee | 29 rep | [2026-08-24-hibrido.md](2026/08/2026-08-24-hibrido.md) |
