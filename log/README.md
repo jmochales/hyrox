@@ -10,6 +10,8 @@ Entrenamientos organizados por año y mes.
 
 | Fecha | Tipo | Fichero |
 |-------|------|---------|
+| 2026-08-26 | Híbrido (Test) | [2026-08-26-hibrido.md](2026/08/2026-08-26-hibrido.md) |
+| 2026-08-26 | Fuerza | [2026-08-26-fuerza.md](2026/08/2026-08-26-fuerza.md) |
 | 2026-08-25 | Carrera larga distancia | [2026-08-25-carrera-larga.md](2026/08/2026-08-25-carrera-larga.md) |
 | 2026-08-24 | Híbrido | [2026-08-24-hibrido.md](2026/08/2026-08-24-hibrido.md) |
 | 2026-08-24 | Fuerza | [2026-08-24-fuerza.md](2026/08/2026-08-24-fuerza.md) |
@@ -47,11 +49,11 @@ Entrenamientos organizados por año y mes.
 
 | Métrica | Valor |
 |---------|-------|
-| **Total entrenamientos** | 27 |
-| **Entrenamientos de fuerza** | 8 |
+| **Total entrenamientos** | 29 |
+| **Entrenamientos de fuerza** | 9 |
 | **Carreras larga distancia** | 6 |
 | **Carreras intervalos** | 0 |
-| **Entrenamientos híbridos** | 11 |
+| **Entrenamientos híbridos** | 12 |
 | **Ciclismo sala** | 2 |
 | **Movilidad** | 1 |
 
@@ -59,5 +61,7 @@ Entrenamientos organizados por año y mes.
 
 | Fecha | Test | Resultado | Fichero |
 |-------|------|-----------|---------|
+| 2026-08-26 | 2000m SkiErg @ RPE 8-9 | 8:26 | [2026-08-26-hibrido.md](2026/08/2026-08-26-hibrido.md) |
+| 2026-08-26 | 100 Wall Ball | 4:51 | [2026-08-26-hibrido.md](2026/08/2026-08-26-hibrido.md) |
 | 2026-08-24 | 4' MAX Burpee Broad Jump | 80 m | [2026-08-24-hibrido.md](2026/08/2026-08-24-hibrido.md) |
 | 2026-08-24 | 2' MAX Burpee | 29 rep | [2026-08-24-hibrido.md](2026/08/2026-08-24-hibrido.md) |
