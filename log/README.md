@@ -10,6 +10,7 @@ Entrenamientos organizados por año y mes.
 
 | Fecha | Tipo | Fichero |
 |-------|------|---------|
+| 2026-08-27 | Carrera intervalos | [2026-08-27-carrera-intervalos.md](2026/08/2026-08-27-carrera-intervalos.md) |
 | 2026-08-26 | Híbrido (Test) | [2026-08-26-hibrido.md](2026/08/2026-08-26-hibrido.md) |
 | 2026-08-26 | Fuerza | [2026-08-26-fuerza.md](2026/08/2026-08-26-fuerza.md) |
 | 2026-08-25 | Carrera larga distancia | [2026-08-25-carrera-larga.md](2026/08/2026-08-25-carrera-larga.md) |
@@ -49,10 +50,10 @@ Entrenamientos organizados por año y mes.
 
 | Métrica | Valor |
 |---------|-------|
-| **Total entrenamientos** | 29 |
+| **Total entrenamientos** | 30 |
 | **Entrenamientos de fuerza** | 9 |
 | **Carreras larga distancia** | 6 |
-| **Carreras intervalos** | 0 |
+| **Carreras intervalos** | 1 |
 | **Entrenamientos híbridos** | 12 |
 | **Ciclismo sala** | 2 |
 | **Movilidad** | 1 |
